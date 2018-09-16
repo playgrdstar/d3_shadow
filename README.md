@@ -1,3 +1,3 @@
-## d3 vs p5
+## Shadowy D3
 
-A simple comparison between d3.js and p5.js for (almost) the same visualisation
+It's possible to use D3 to just play around with data and create DOMs in the background.
